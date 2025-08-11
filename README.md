@@ -7,5 +7,5 @@ Animierter Dropdown-Menü
 - ![Vorschau]([https://myoctocat.com/assets/images/base-octocat.svg](https://i.ibb.co/JRDvPh5x/Animation.gif))
 
 ## Beispiele für data-target="menu"
-- <span class="fas fa-gear menu-toggle" data-target="menu1">|</span> Menüpunkt
-- <a href="#" class="menu-toggle" data-target="menu">Menüpunkt</a>
+- <span class=\"menu-toggle\" data-target=\"menu\">Menüpunkt<\/span> 
+- <a href=\"#\" class=\"menu-toggle\" data-target=\"menu\">Menüpunkt<\/a>
